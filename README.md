@@ -6,4 +6,4 @@
 | 19127595 | Nguyễn Minh Trí | [ongnam](https://github.com/ongnam) |
 
 # Theo dõi tiến độ làm việc của nhóm
-[Trello](https://github.com/hudavn/G12-P4DS-Final/edit/main/README.md) quản lý thời gian làm việc của nhóm
+[Trello](https://trello.com/b/a6HHKOxz/l%E1%BA%ADp-tr%C3%ACnh-khdl) quản lý thời gian làm việc của nhóm
